@@ -9,23 +9,23 @@ A modern, secure blogging platform with real-time notifications, built with the 
 - User Profiles: Each blog post is associated with its author
 - Modern UI: Clean and responsive design using Tailwind CSS and ShadcnUI
 
-**Technologies Used:**
-**Frontend**
-React (with Vite)
-TypeScript
-TanStack Query (React Query) for data fetching
-Wouter for routing
-Zod for schema validation
-Shadcn/UI components
-Tailwind CSS for styling
+**Technologies Used:**  
+**Frontend**  
+React (with Vite)  
+TypeScript  
+TanStack Query (React Query) for data fetching  
+Wouter for routing  
+Zod for schema validation  
+Shadcn/UI components  
+Tailwind CSS for styling  
 
-**Backend**
-Node.js with Express
-MongoDB with Mongoose
-WebSockets for real-time notifications
-Passport.js for authentication
-TypeScript
-Prerequisites
+**Backend**  
+Node.js with Express  
+MongoDB with Mongoose  
+WebSockets for real-time notifications  
+Passport.js for authentication  
+TypeScript  
+Prerequisites  
 
 # **Before you begin, ensure you have the following installed:**
 Node.js (v18 or later)
